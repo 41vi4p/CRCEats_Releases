@@ -72,11 +72,6 @@ CRCEats_Releases/
 - **Manvith Karkera** — Development
 - **Deon Raj** — Development
 
-### Project Faculty
-- **Rev. Fr. Valerian Dsouza** — Director, Fr. CRCE
-- **Dr. Sapna Prabhu** — Principal, Fr. CRCE
-- **Prof. Vaibhav Godbole** — Teacher In-charge, Project Cell
-
 ---
 
 ## 📄 License
